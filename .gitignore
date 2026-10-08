@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+# Source papers, generated documents, QA reports and private local work.
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.zip
+output/
+qa/
+_work/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

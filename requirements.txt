@@ -1,0 +1,4 @@
+# Optional layout helpers. audit_docx.py uses the standard library only.
+pdfplumber>=0.11.9,<0.12
+Pillow>=12.3,<13
+numpy>=2.2,<3

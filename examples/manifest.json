@@ -1,0 +1,57 @@
+{
+  "source_pdf": "synthetic-paper.pdf",
+  "reference_verified": true,
+  "pages": [
+    {
+      "physical_page": 1,
+      "printed_label": "P.1 of 1",
+      "size_pt": [
+        612,
+        792
+      ],
+      "answer_line_count": 2,
+      "answer_line_pitch_pt": 18.5,
+      "footer": "P.1 of 1",
+      "blocks": [
+        {
+          "id": "q1",
+          "role": "question",
+          "alignment": "left",
+          "font": {
+            "family": "Helvetica",
+            "size_pt": 11,
+            "confidence": "synthetic fixture"
+          },
+          "lines": [
+            "1. Explain how supply changes",
+            "when the price of a good rises."
+          ],
+          "spacing": {
+            "observed_baseline_pitch_pt": 14,
+            "observed_baseline_to_next_block_pt": 24
+          },
+          "render_bbox": [
+            60,
+            90,
+            552,
+            130
+          ]
+        },
+        {
+          "id": "q2",
+          "role": "question",
+          "alignment": "left",
+          "lines": [
+            "2. State one limitation. (2 marks)"
+          ],
+          "render_bbox": [
+            60,
+            130,
+            552,
+            155
+          ]
+        }
+      ]
+    }
+  ]
+}

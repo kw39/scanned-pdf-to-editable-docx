@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scanned PDF to Editable Word"
+  short_description: "Rebuild scanned exams as editable Word documents"
+  default_prompt: "Use $scanned-pdf-to-editable-docx to reconstruct these scanned exam PDFs as editable Word documents, following the original layout and ignoring handwriting."
